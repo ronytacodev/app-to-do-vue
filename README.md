@@ -1,9 +1,23 @@
-# app-to-do-vue2
+# Vue TO-DO List App :pencil2:
+
+How to build a To-Do List App with Vue JS and Vite.
+
+## STACK TECH :hammer:
+
+* Vue 2
+* Flexbox
+* VueCli
+* Babel
+
+## Screenshot
+
+![](src/assets/screenshot.jpg)
 
 ## Project setup
 ```
 npm install
 ```
+![](src/assets/logo.png)
 
 ### Compiles and hot-reloads for development
 ```
