@@ -1,6 +1,6 @@
 # Vue TO-DO List App :pencil2:
 
-How to build a To-Do List App with Vue JS and Vite.
+How to build a To-Do List App with Vue 2 JS.
 
 ## STACK TECH :hammer:
 
